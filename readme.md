@@ -11,8 +11,9 @@ of uploaded documents.
 ## Dependencies 
 ----------------------------
 1. create .env file
+   ```
    OPENAI_API_KEY= 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
-   
+   ```
 2. Install the required dependencies by running the following command:
    ```
    pip install -r requirements.txt
